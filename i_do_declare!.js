@@ -11,15 +11,7 @@ var string3 = 'CodingDojo';
 var condTrue = true;
 var condFalse = false;  
 
-console.log('First Number', num1);
-console.log('Second Number', num2);
-console.log('Third Number', num3);
-console.log('4th Number', num4);
-console.log('First String', string1);
-console.log('2nd String', string2);
-console.log('String Number Three',string3)
-console.log('If conditional is TRUE', condTrue);
-console.log('If conditional is FALSE', condFalse);
+console.log('First Number', num1, 'Second Number', num2, 'Third Number', num3, '4th Number', num4, 'First String', string1, '2nd String',string2, 'String Number Three', string3, 'If conditional is TRUE', condTrue, 'If conditional is FALSE', condFalse);
 }
 
 a();
